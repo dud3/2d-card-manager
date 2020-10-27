@@ -1,0 +1,3 @@
+var CardsManager = {
+	debug: true
+};
